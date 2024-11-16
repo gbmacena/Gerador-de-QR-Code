@@ -21,5 +21,3 @@ Para rodar o projeto, siga as etapas abaixo:
 - Ao clicar no botão "Gerar QR Code", o JavaScript cria um QR Code correspondente ao conteúdo inserido.
 - O QR Code gerado será exibido na tela.
   
-
-**Gabriel Macena** - 20 anos - Desenvolvedor Web.
